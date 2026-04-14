@@ -1,41 +1,39 @@
-# Hi there 👋, I'm Freddy
+# Freddy
 
-I am an **Engineer** passionate about solving complex problems through technology. My background spans from physical system design to modern software development, focusing on building efficient, scalable solutions with a polished aesthetic.
+I focus on solving complex problems through technology, bridging the gap between hardware logic and modern software development. My approach emphasizes building efficient, scalable solutions with a high standard for aesthetic and functional design.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Technical Stack
 
-| Category | Tools & Technologies |
+| Category | Technologies |
 | :--- | :--- |
 | **Languages** | JavaScript (ES6+), Dart, Python, SQL |
-| **Frameworks / Libs** | Flutter, Odoo Framework, Node.js |
-| **Databases** | PostgreSQL, Supabase, Firebase |
-| **Tools & OS** | Git, Docker, Linear, Pop!_OS |
-| **UI/UX Design** | Modern/iOS Aesthetics, Frosted Glass effects |
+| **Frameworks** | Flutter, Odoo Framework, Node.js |
+| **Backend & Cloud** | PostgreSQL, Supabase, Firebase |
+| **Workflow & OS** | Git, Docker, Linear, Pop!_OS |
+| **Design Language** | iOS-inspired aesthetics, Translucent UI, Frosted Glass effects |
 
 ---
 
-### 🚀 Current Focus
-- 🔭 **ERP Systems:** Developing and customizing advanced modules in Odoo.
-- 📱 **Mobile Development:** Building cross-platform applications with Flutter.
-- 🌐 **E-commerce & Business:** Implementing end-to-end sales and logistics solutions.
+### Current Focus
+- **Enterprise Solutions:** Developing and customizing advanced modules within the Odoo ecosystem.
+- **Mobile Ecosystems:** Architecting cross-platform applications using Flutter.
+- **Digital Commerce:** Implementing end-to-end sales and logistics infrastructure.
 
 ---
 
-### 🌱 Learning & Collaboration
-- 📚 Currently exploring **AI Integration** (Gemini) within local development workflows.
-- 🤝 Looking to collaborate on **AgroTech** projects and process automation.
-- 💬 Ask me about: Software architecture, product development, and workflow optimization.
+### Development & Collaboration
+- Exploring **AI Integration** (Gemini) within local development and automated workflows.
+- Interested in **AgroTech** initiatives and industrial process automation.
+- Specialized in software architecture, product development, and workflow optimization.
 
 ---
 
-### 📫 Connect with me
-- 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
-- 📧 [Email](mailto:tu-email@ejemplo.com)
-- ⚡ **Fun fact:** I'm a fan of regional Mexican music, especially the Sierreño style.
+### Contact
+- [LinkedIn](https://linkedin.com/in/tu-perfil)
+- [Email](mailto:tu-email@ejemplo.com)
+- **Note:** Enthusiast of regional Mexican music, specifically Sierreño.
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=freddy-h2&show_icons=true&theme=radical)
