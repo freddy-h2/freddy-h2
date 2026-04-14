@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 380" role="img" aria-label="Alfredo Hernandez — Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070f"/>
+      <stop offset="50%" stop-color="#0a1024"/>
+      <stop offset="100%" stop-color="#050814"/>
+    </linearGradient>
+
+    <radialGradient id="glowA" cx="25%" cy="40%" r="45%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#0066ff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowB" cx="85%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#3a7bfd" stop-opacity="0.28"/>
+      <stop offset="70%" stop-color="#0a1024" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7fe7ff"/>
+      <stop offset="50%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#4a8fff"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00d4ff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0d2b4a" stroke-width="0.6"/>
+    </pattern>
+
+    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="380" fill="url(#bg)"/>
+  <rect width="1280" height="380" fill="url(#grid)" opacity="0.55"/>
+  <rect width="1280" height="380" fill="url(#glowA)"/>
+  <rect width="1280" height="380" fill="url(#glowB)"/>
+
+  <g opacity="0.18" fill="#00d4ff">
+    <circle cx="120" cy="80" r="1.6"/>
+    <circle cx="240" cy="140" r="1.2"/>
+    <circle cx="60" cy="260" r="1.4"/>
+    <circle cx="340" cy="300" r="1.2"/>
+    <circle cx="980" cy="60" r="1.6"/>
+    <circle cx="1120" cy="120" r="1.2"/>
+    <circle cx="1180" cy="260" r="1.4"/>
+    <circle cx="1040" cy="320" r="1.2"/>
+    <circle cx="680" cy="50" r="1.2"/>
+    <circle cx="760" cy="340" r="1.4"/>
+  </g>
+
+  <g font-family="ui-monospace, 'JetBrains Mono', 'Fira Code', Menlo, monospace" fill="#1e4a7a" opacity="0.55" font-size="13">
+    <text x="40" y="48">const dev = {</text>
+    <text x="60" y="70">  name: "A.H.",</text>
+    <text x="60" y="92">  role: "fullstack",</text>
+    <text x="60" y="114">  stack: [...],</text>
+    <text x="40" y="136">};</text>
+
+    <text x="1020" y="250">async () =&gt; {</text>
+    <text x="1040" y="272">  await build();</text>
+    <text x="1040" y="294">  return ship;</text>
+    <text x="1020" y="316">};</text>
+  </g>
+
+  <g transform="translate(640, 190)" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'Fira Code', Menlo, monospace">
+    <text y="-70" font-size="18" fill="#4aa8ff" letter-spacing="6" opacity="0.85">&lt; FULL&#160;STACK&#160;DEVELOPER /&gt;</text>
+
+    <g filter="url(#softGlow)" opacity="0.7">
+      <text y="10" font-size="76" font-weight="800" fill="#00d4ff" letter-spacing="2">ALFREDO HERNANDEZ</text>
+    </g>
+    <text y="10" font-size="76" font-weight="800" fill="url(#nameGrad)" letter-spacing="2" filter="url(#neon)">ALFREDO HERNANDEZ</text>
+
+    <line x1="-220" y1="36" x2="220" y2="36" stroke="url(#line)" stroke-width="1.2"/>
+
+    <text y="72" font-size="15" fill="#7fb8e0" letter-spacing="3" opacity="0.9">ARCHITECTURE &#8226; MOBILE &#8226; CLOUD &#8226; AUTOMATION</text>
+  </g>
+
+  <g font-family="ui-monospace, monospace" font-size="14" fill="#4aa8ff" opacity="0.85">
+    <circle cx="50" cy="345" r="4" fill="#00d4ff" filter="url(#neon)"/>
+    <text x="64" y="350">~/dev $ building the future_</text>
+  </g>
+
+  <g stroke="#00d4ff" stroke-width="1.2" fill="none" opacity="0.5" filter="url(#neon)">
+    <path d="M 0 0 L 60 0 L 60 60" />
+    <path d="M 1280 0 L 1220 0 L 1220 60" />
+    <path d="M 0 380 L 60 380 L 60 320" />
+    <path d="M 1280 380 L 1220 380 L 1220 320" />
+  </g>
+</svg>

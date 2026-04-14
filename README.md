@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" alt="Alfredo Hernández" />
+  <img src="header.svg" alt="Alfredo Hernández — Full Stack Developer" />
 </p>
 
 # Alfredo Hernández
