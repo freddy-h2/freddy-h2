@@ -1,6 +1,10 @@
-# Freddy
+<p align="center">
+  <img src="header.png" alt="Alfredo Hernández" />
+</p>
 
-I focus on solving complex problems through technology, bridging the gap between hardware logic and modern software development. My approach emphasizes building efficient, scalable solutions with a high standard for aesthetic and functional design.
+# Alfredo Hernández
+
+Software architect and full-stack developer focused on enterprise systems, cross-platform mobile applications, and digital commerce infrastructure. Passionate about clean architecture, thoughtful design, and the intersection between technology and real-world operations.
 
 ---
 
@@ -11,29 +15,31 @@ I focus on solving complex problems through technology, bridging the gap between
 | **Languages** | JavaScript (ES6+), Dart, Python, SQL |
 | **Frameworks** | Flutter, Odoo Framework, Node.js |
 | **Backend & Cloud** | PostgreSQL, Supabase, Firebase |
-| **Workflow & OS** | Git, Docker, Linear, Pop!_OS |
-| **Design Language** | iOS-inspired aesthetics, Translucent UI, Frosted Glass effects |
+| **Workflow & Tooling** | Git, Docker, Linear, Pop!_OS |
+| **Design Language** | iOS-inspired aesthetics, translucent UI, frosted glass effects |
 
 ---
 
 ### Current Focus
-- **Enterprise Solutions:** Developing and customizing advanced modules within the Odoo ecosystem.
-- **Mobile Ecosystems:** Architecting cross-platform applications using Flutter.
-- **Digital Commerce:** Implementing end-to-end sales and logistics infrastructure.
+
+- **Enterprise Solutions:** Designing, developing, and customizing advanced modules within the Odoo ecosystem for ERP, sales, and logistics.
+- **Mobile Ecosystems:** Architecting performant cross-platform applications with Flutter, emphasizing refined user experience and maintainable codebases.
+- **Digital Commerce:** Implementing end-to-end sales and fulfillment infrastructure that bridges operations, inventory, and customer experience.
 
 ---
 
 ### Development & Collaboration
-- Exploring **AI Integration** (Gemini) within local development and automated workflows.
-- Interested in **AgroTech** initiatives and industrial process automation.
-- Specialized in software architecture, product development, and workflow optimization.
+
+- Integrating **AI-assisted workflows** (Gemini, Claude) into local development and automation pipelines.
+- Exploring **AgroTech** initiatives and industrial process automation as a bridge between traditional industries and modern software.
+- Specialized in software architecture, product development, and workflow optimization across the full delivery lifecycle.
+- Open to collaboration on ambitious projects involving ERP customization, mobile platforms, or automation systems.
 
 ---
 
 ### Contact
-- [LinkedIn](https://linkedin.com/in/tu-perfil)
-- [Email](mailto:tu-email@ejemplo.com)
-- **Note:** Enthusiast of regional Mexican music, specifically Sierreño.
+
+- **LinkedIn:** [Alfredo Hernández](https://www.linkedin.com/in/alfredo-hern%C3%A1ndez-hern%C3%A1ndez-356728334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Email:** [freddy1104hh@gmail.com](mailto:freddy1104hh@gmail.com)
 
 ---
-
