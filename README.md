@@ -2,7 +2,7 @@
   <img src="header.svg" alt="Alfredo Hernández — Full Stack Developer" />
 </p>
 
-# Alfredo Hernández
+---
 
 Software architect and full-stack developer focused on enterprise systems, cross-platform mobile applications, and digital commerce infrastructure. Passionate about clean architecture, thoughtful design, and the intersection between technology and real-world operations.
 
